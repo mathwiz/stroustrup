@@ -10,6 +10,7 @@
 		22192B3F233DB18300D351D6 /* hello_world.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = hello_world.cpp; sourceTree = "<group>"; };
 		22192B40233DB1A300D351D6 /* std_lib_facilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = std_lib_facilities.h; sourceTree = "<group>"; };
 		22192B41233DB64600D351D6 /* test1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = test1.cpp; sourceTree = "<group>"; };
+		22192B42233E2D7200D351D6 /* std_lib_fac.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = std_lib_fac.h; sourceTree = "<group>"; };
 		225FC0D52310C810006DE2C4 /* HelloWorld.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HelloWorld.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -34,6 +35,7 @@
 		22EF826D231070E1001ED167 /* C01 */ = {
 			isa = PBXGroup;
 			children = (
+				22192B42233E2D7200D351D6 /* std_lib_fac.h */,
 				22192B3F233DB18300D351D6 /* hello_world.cpp */,
 				225FC0D52310C810006DE2C4 /* HelloWorld.cpp */,
 			);
