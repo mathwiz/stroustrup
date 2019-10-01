@@ -13,6 +13,7 @@
 		22192B42233E2D7200D351D6 /* std_lib_fac.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = std_lib_fac.h; sourceTree = "<group>"; };
 		2243BAFA2340D49900FB0B7A /* input.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = input.cpp; sourceTree = "<group>"; };
 		2243BAFB23416ED200FB0B7A /* operators.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = operators.cpp; sourceTree = "<group>"; };
+		2243BAFC2343E41300FB0B7A /* inputstream.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = inputstream.cpp; sourceTree = "<group>"; };
 		225FC0D52310C810006DE2C4 /* HelloWorld.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HelloWorld.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -42,6 +43,7 @@
 				22192B3F233DB18300D351D6 /* hello_world.cpp */,
 				225FC0D52310C810006DE2C4 /* HelloWorld.cpp */,
 				2243BAFB23416ED200FB0B7A /* operators.cpp */,
+				2243BAFC2343E41300FB0B7A /* inputstream.cpp */,
 			);
 			path = C01;
 			sourceTree = "<group>";
